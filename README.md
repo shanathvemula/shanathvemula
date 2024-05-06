@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shanath</h1>
+<h1 align="center">Hi 👋, I'm shanath vemula</h1>
 
 [comment]: <> (<h3 align="center">A passionate Python developer from India</h3>)
 
