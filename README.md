@@ -1,14 +1,14 @@
+<p align="center"> <img src="https://media.licdn.com/dms/image/D5616AQHOYCN0qQ-EaA/profile-displaybackgroundimage-shrink_200_800/0/1692338174969?e=2147483647&v=beta&t=YP0i_MrTDGaGAjS5WbutQ1al2dy6xUkMMNJ9Ot7v_F0" alt="shanathvemula_profile" /> </p>
+
 <h1 align="center">Hi 👋, I'm shanath vemula</h1>
 
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="center"> <img src="https://media.licdn.com/dms/image/D5616AQHOYCN0qQ-EaA/profile-displaybackgroundimage-shrink_200_800/0/1692338174969?e=2147483647&v=beta&t=YP0i_MrTDGaGAjS5WbutQ1al2dy6xUkMMNJ9Ot7v_F0" alt="shanathvemula_profile" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanathvemula&label=Profile%20views&color=0e75b6&style=flat" alt="shanathvemula" /> </p>
 
 [comment]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanathvemula" alt="shanathvemula" /></a> </p>)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanathvemula&label=Profile%20views&color=0e75b6&style=flat" alt="shanathvemula" /> </p>
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shanathvemula?tab=projects](https://github.com/shanathvemula?tab=projects)
