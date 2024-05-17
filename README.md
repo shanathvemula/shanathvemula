@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Python developer from India</h3>
 
-[comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanathvemula&label=Profile%20views&color=0e75b6&style=flat" alt="shanathvemula" /> </p>)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanathvemula&label=Profile%20views&color=0e75b6&style=flat" alt="shanathvemula" /> </p>
 
 [comment]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanathvemula" alt="shanathvemula" /></a> </p>)
 
