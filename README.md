@@ -43,5 +43,5 @@
 
 [comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanathvemula&show_icons=true&locale=en" alt="shanathvemula" /></p>)
 
-[comment]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanathvemula&" alt="shanathvemula" /></p>)
+<> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanathvemula&" alt="shanathvemula" /></p>)
 
